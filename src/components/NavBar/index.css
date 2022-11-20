@@ -1,0 +1,34 @@
+.navBar-bg {
+  color: white;
+  display: flex;
+  justify-content: space-between;
+  padding: 10px 30px 10px 30px;
+  background-color: #ffffff33;
+}
+.logo-bg {
+  display: flex;
+  height: 50px;
+  width: 200px;
+
+  align-items: center;
+}
+.logo-app-name {
+  font-size: 15px;
+  font-family: Roboto;
+  font-weight: bold;
+}
+.logo {
+  height: 100%;
+}
+.score-container {
+  display: flex;
+  justify-content: space-between;
+
+  width: 250px;
+  align-items: center;
+}
+.score-p {
+  font-size: 15px;
+  font-family: Roboto;
+  font-weight: bold;
+}

@@ -1,0 +1,17 @@
+.emoji-card-bg {
+  background-color: #ffffff33;
+  margin: 0px 0px 8px 8px;
+  max-height: 200px;
+  max-width: 200px;
+  padding: 40px;
+  text-align: center;
+  border-radius: 20px;
+}
+.emoji-image {
+  max-height: 50px;
+  max-width: 50px;
+}
+button {
+  border-style: none;
+  background-color: transparent;
+}

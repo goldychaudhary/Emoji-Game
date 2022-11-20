@@ -1,0 +1,40 @@
+.win-Lose-bg {
+  display: flex;
+  align-items: center;
+  height: 70%;
+  width: 60%;
+  background-color: #ffffff33;
+  padding: 20px;
+  border-radius: 20px;
+}
+
+.left-container {
+  text-align: center;
+  color: white;
+  font-family: Roboto;
+  margin-top: 0px;
+  height: 100%;
+  width: 50%;
+}
+h1 {
+  font-size: 50px;
+}
+p {
+  font-size: 30px;
+}
+img {
+  max-height: 100%;
+}
+
+.play-again-btn {
+  border-style: none;
+  background-color: #ffce27;
+  padding: 5px 10px 5px 10px;
+  color: black;
+  border-radius: 8px;
+  font-size: 8px;
+  font-weight: 700;
+}
+.color-p {
+  color: #6a59ff;
+}
